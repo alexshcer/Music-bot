@@ -84,3 +84,7 @@ debug, see number of voice connections.
 Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
+
+### Use Environment Variables
+use - `.env` to keep you bot token safe
+in the `.env` file write `DISCORD_TOKEN='token'` 
